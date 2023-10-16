@@ -1,0 +1,15 @@
+.blog-container {
+  width: 60%;
+  margin: auto;
+  .blog-item {
+    border: 1px solid #ccc;
+    box-shadow: 0 0 3px #ccc;
+    text-align: left;
+    padding: 20px;
+    margin-bottom: 2rem;
+    p {
+      font-size: 18px;
+      line-height: 1.3;
+    }
+  }
+}
